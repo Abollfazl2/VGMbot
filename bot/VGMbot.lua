@@ -226,14 +226,9 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[vip group manager v1
 
-
 Admins
 @TGDeveloper [developer & manager]
-@Hazrateh_bi_asab [manager]
-@BadRabbit [manager]
 
-Our channels
-@vgmsupport [persion]
 ]],
     help_text = [[
 Commands list :
