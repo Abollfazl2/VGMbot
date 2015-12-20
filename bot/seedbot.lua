@@ -220,20 +220,20 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {178618864,70153760,169696773,tonumber(TGDeveloper,Hazrateh_bi_asab,BadRabbit)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[vip group manager v1
 
-https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@TGDeveloper [Developer]
+@TGDeveloper [developer & manager]
+@Hazrateh_bi_asab [manager]
+@BadRabbit [manager]
 
 Our channels
-@VGMSUPPORT
+@vgmsupport [persion]
 ]],
     help_text = [[
 Commands list :
@@ -280,7 +280,7 @@ return group id or user id
 !help
 
 !lock [member|name|bots]
-Locks [member|name|bots] 
+Locks [member|name|bots]
 
 !unlock [member|name|photo|bots]
 Unlocks [member|name|photo|bots]
@@ -331,7 +331,7 @@ will return group logs
 !banlist
 will return group ban list
 
-**U can use both "/" and "!" 
+**U can use both "/" and "!"
 
 
 *Only owner and mods can add bots in group
