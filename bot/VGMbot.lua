@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {178618864,70153760,169696773,tonumber(TGDeveloper,Hazrateh_bi_asab,BadRabbit)},--Sudo users
+    sudo_users = {178618864,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
