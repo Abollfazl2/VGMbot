@@ -1,4 +1,4 @@
-# [VGMbot](https://telegram.me/VGMbot) 
+# [KING MANAGER](https://telegram.me/KINGMANAGER) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License]
 # Features
 
@@ -353,7 +353,7 @@ chmod +x launch.sh
 To install everything in one command on debian-based distros, use: (useful for VPS deployment)
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd VGMbot && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd  KINGMANAGER && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration 
 
@@ -381,8 +381,6 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 # Special thanks to
 [@TGDeveloper](https://telegram.me/TGdeveloper)
 
-For Managing [@VGMbot](https://telegram.me/VGMbot) on telegram
+For Managing [@KINGMANAGER](https://telegram.me/KING_MASTERS) on telegram
 
 [Abolfazl](https://github.com/Abollfazl2) ([Telegram](https://telegram.me/TGDeveloper))
-
-Our cahnnel > [@VGMSUPPORT](https://telegram.me/VGMSUPPORT)
